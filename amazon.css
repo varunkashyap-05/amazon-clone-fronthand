@@ -233,3 +233,34 @@ h2{
     left: 21px;
 }
 
+.panel1{
+    background-color: #37475a;
+    color: white;
+    height: 49px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.panel2{
+    color: #dddddd;
+    background-color: #222f3d;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+}
+ul{
+    margin-top: 20px;
+}
+
+ul a:hover{
+    text-decoration: underline;
+}
